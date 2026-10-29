@@ -19,7 +19,7 @@ At **CASABOT – AI HOME**, I contribute to **Core, our proprietary operating sy
 **CASABOT – AI HOME · Full Stack Engineer**<br>
 Dubai, UAE · February 2026 – Present
 
-- **Core OS & device integrations:** Contribute at the operating-system platform level, connecting smart-device capabilities, AI services, and automation workflows for homes and hospitality within an ecosystem of 1,000+ integrations.
+- **Core OS & cross-brand integrations:** Contribute at the operating-system platform level to an ecosystem of 1,000+ smart-device integrations across different brands. Connect device capabilities, AI services, and automation workflows for homes and hospitality, while addressing interoperability and integration scaling issues.
 - **Python & agentic AI:** Work on agents that observe system state, understand context and intent, and act through services and device integrations, with a focus on evaluating outcomes and refining behavior.
 - **Apiary · Hospitality & conversational AI:** Work on hospitality property management system (PMS) integrations, including Opera, and implement room-level conversational AI agents that connect guest interactions with hospitality workflows.
 - **Business platform integrations:** Connect HubSpot, Chargebee, and Auth0 with CRM, subscription billing, and identity workflows.
