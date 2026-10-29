@@ -23,6 +23,7 @@ Dubai, UAE · February 2026 – Present
 - **Python & agentic AI:** Work on agents that observe system state, understand context and intent, and act through services and device integrations, with a focus on evaluating outcomes and refining behavior.
 - **Apiary · Hospitality & conversational AI:** Work on hospitality property management system (PMS) integrations, including Opera, and implement room-level conversational AI agents that connect guest interactions with hospitality workflows.
 - **Business platform integrations:** Connect HubSpot, Chargebee, and Auth0 with CRM, subscription billing, and identity workflows.
+- **System design & scaling:** Work on service boundaries, user-traffic handling, and scalable backend workflows. Use RabbitMQ for asynchronous messaging, background workers for long-running jobs, and multithreading where appropriate to support concurrent workloads.
 - **Product delivery & operations:** Build React/Next.js interfaces and backend integrations, create Docker images, and deploy and troubleshoot services on AWS EC2 with Linux and Amazon DocumentDB.
 
 **Agentic workflow:** Observe → Understand → Plan → Act → Evaluate → Refine.<br>
@@ -82,7 +83,7 @@ Mobile and backend contributions using Flutter, Laravel, MySQL, Android Java, an
 **Product:** React · Next.js · TypeScript · Tailwind CSS · shadcn/ui<br>
 **Services & AI:** Python · Node.js · Express · REST APIs · Socket.io · Agentic workflows<br>
 **Data:** MySQL · MongoDB · DocumentDB · Prisma · Redis<br>
-**Infrastructure:** Docker · AWS EC2 · Linux · Git<br>
+**Infrastructure:** RabbitMQ · Background workers · Multithreading · Docker · AWS EC2 · Linux · Git<br>
 **Integrations:** Smart devices · Hospitality PMS / Opera · HubSpot · Chargebee · Auth0
 
 ---
