@@ -24,15 +24,15 @@
   <rect x="48" y="214" width="232" height="112" rx="14" fill="#142438" stroke="#29405a"/>
   <text x="68" y="249" font-size="23" font-weight="600" fill="#f0f5fc">Product interfaces</text>
   <text x="68" y="282" font-size="22" fill="#a3b6ce">React · Next.js</text>
-  
+
   <rect x="320" y="214" width="260" height="112" rx="14" fill="#142438" stroke="#29405a"/>
   <text x="340" y="249" font-size="23" font-weight="600" fill="#f0f5fc">APIs &amp; integration</text>
   <text x="340" y="282" font-size="22" fill="#a3b6ce">Node.js · TypeScript</text>
-  
+
   <rect x="620" y="214" width="286" height="112" rx="14" fill="#11302e" stroke="#387d70"/>
   <text x="640" y="249" font-size="23" font-weight="600" fill="#9bf5d8">Core &amp; agentic AI</text>
   <text x="640" y="282" font-size="22" fill="#c0dbd5">Python · agent workflows</text>
-  
+
 
   <text x="52" y="355" font-size="15" fill="#708ba8" letter-spacing="2">02 / PLATFORM INTEGRATIONS</text>
   <g fill="#111f32" stroke="#29405a">
