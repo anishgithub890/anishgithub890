@@ -15,7 +15,7 @@
 
 Based in **Dubai, UAE**, I build web applications across the stack: product interfaces, backend services, database architecture, and cloud deployment. My experience spans **AI home automation, multi-tenant SaaS, HRMS & CRM, real estate, and ERP systems**.
 
-At **CASABOT – AI HOME**, I contribute to **Core**, a platform connecting smart devices, automation workflows, and conversational AI. Previously, at **Chaturvedi Software House**, I worked on business platforms covering people operations, customer relationships, property management, and finance.
+At **CASABOT – AI HOME**, I contribute to an **AI-powered home automation platform** connecting smart devices, automation workflows, and conversational AI. Previously, at **Chaturvedi Software House**, I worked on business platforms covering people operations, customer relationships, property management, and finance.
 
 I care about the details that make software useful: clear interfaces, maintainable APIs, reliable data flows, and services that are easier to operate in production.
 
@@ -32,7 +32,7 @@ I care about the details that make software useful: clear interfaces, maintainab
 **CASABOT – AI HOME · Full Stack Engineer**<br>
 Dubai, UAE · February 2026 – Present
 
-- Build dashboards and backend integrations for Core, supporting connected devices, automation, and conversational controls.
+- Build dashboards and backend integrations for a connected-home platform, supporting smart devices, automation, and conversational controls.
 - Work across React, Next.js, TypeScript, Node.js, and AI/IoT integrations to connect product interfaces with platform services.
 - Deploy and troubleshoot services on AWS EC2, working with Linux, Docker, Amazon DocumentDB, and production logs.
 
@@ -54,16 +54,21 @@ Kathmandu, Nepal · November 2020 – October 2021
 
 - Contributed to mobile and backend projects using Flutter, Laravel, MySQL, and Android Java.
 
-### Explore my code
+### Real-world engineering work
 
-A selection of public repositories covering business workflows and interactive web experiences.
+My work spans connected environments, enterprise operations, commerce, and mobile applications. These are the systems and workflows I've contributed to across my professional experience.
 
-| Project | Engineering focus | Technologies |
+| Platform | My contribution | Engineering focus |
 | :--- | :--- | :--- |
-| [**Real Estate Management**](https://github.com/anishgithub890/realestate) | Property and tenant workflows, multi-tenant architecture, and access control. | Next.js · Express · Prisma · MySQL |
-| [**Fincore POS**](https://github.com/anishgithub890/billing-pos-nextjs) | Sales, returns, receipts, form validation, and reporting interfaces. | Next.js · TypeScript · Tailwind CSS |
-| [**E-commerce Store**](https://github.com/anishgithub890/client-ecommerce-store) / [**Admin**](https://github.com/anishgithub890/ecommerce-admin) | Customer-facing shopping interfaces and store administration. | Next.js · TypeScript · Prisma |
-| [**3D Solar System**](https://github.com/anishgithub890/threejs-solar-system) | Interactive 3D rendering, camera controls, and animated planetary orbits. | Three.js · TypeScript · Vite |
+| **Connected Living Platform** | Dashboards, service integrations, and data flows connecting smart devices, automation rules, and conversational AI; deployment and production troubleshooting. | React · Next.js · Node.js · AWS EC2 · DocumentDB |
+| **People Operations Suite** | Employee lifecycle, recruitment, attendance, leave, payroll, and people analytics within a multi-tenant HRMS. | TypeScript · Next.js · Express · Prisma · MySQL |
+| **Customer Relationship Workspace** | Lead scoring and routing, contacts, deal pipelines, sales forecasting, quotes, orders, invoicing, and campaign workflows. | React · Node.js · MySQL · Redis · Socket.io |
+| **Property Discovery Network** | Broker and listing workflows, buyer requirements, AI-assisted property matching, activity feeds, and third-party listing integrations. | Next.js · TypeScript · Node.js · Prisma · REST APIs |
+| **Property Operations Suite** | Tenant and landlord workflows, rental and sales contracts, digital signatures, PDF documents, payments, maintenance tickets, and approval flows. | Next.js · React Query · React Hook Form · Zod · PDF tooling |
+| **Finance & Inventory Hub** | Backend APIs for financial operations, inventory control, business process automation, third-party integrations, caching, and reporting. | Node.js · Express · MySQL · MongoDB · Redis |
+| **Retail Billing Workspace** | Sales and returns interfaces, receipts, payment options, tax handling, customer workflows, and sales reporting. | Next.js · TypeScript · Tailwind CSS · Recharts |
+| **Commerce Web Platform** | Frontend and backend contributions to a .NET-based e-commerce application, with API integration and testing across modules. | .NET · API integration · API testing |
+| **Mobile & Backend Applications** | Contributions to Flutter mobile applications, Laravel backend services, and Android features during my internship. | Flutter · Laravel · PHP · MySQL · Java · Oracle |
 
 ### Technology toolkit
 
