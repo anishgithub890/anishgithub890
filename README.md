@@ -1,7 +1,7 @@
 ![Anish Mahato | Full Stack Engineer | System design, Python, AI, Docker, and platform integrations](./assets/banner.svg)
 
 <p align="center">
-  <strong>System design · Python &amp; AI engineering · Enterprise integrations</strong>
+  <strong>System design · Agentic AI · Full-stack platform engineering</strong>
 </p>
 <p align="center">
   <a href="https://anishnp.vercel.app"><strong>Explore my portfolio ↗</strong></a>
@@ -15,7 +15,7 @@
 
 Based in **Dubai, UAE**, I build web applications across the stack: product interfaces, backend services, database architecture, and cloud deployment. My experience spans **AI home automation, multi-tenant SaaS, HRMS & CRM, real estate, and ERP systems**.
 
-At **CASABOT – AI HOME**, I work on **Core**, contributing to Python services, AI engineering, and core platform workflows for connected devices, automation, and conversational AI. Previously, at **Chaturvedi Software House**, I worked on business platforms covering people operations, customer relationships, property management, and finance.
+At **CASABOT – AI HOME**, I work on **Core**, contributing to Python services, agentic AI, and core platform workflows for connected devices, automation, and conversational AI. Previously, at **Chaturvedi Software House**, I worked on business platforms covering people operations, customer relationships, property management, and finance.
 
 My work also includes **HubSpot, Chargebee, and Auth0 integrations**, Docker image builds, containerized services, and cloud operations. I connect product workflows with CRM, billing, and identity platforms.
 
@@ -35,16 +35,29 @@ I care about the details that make software useful: clear interfaces, maintainab
 I work across the boundaries between user interfaces, APIs, Python and AI services, external platforms, and cloud infrastructure.
 
 - **Application architecture:** Multi-tenant workflows, company data isolation, role-based access, reusable services, and database design.
-- **Core & AI engineering:** Python services and core platform contributions connecting AI-assisted experiences with automation and device workflows.
+- **Core & agentic AI engineering:** Python services and agent workflows that connect observation, contextual understanding, planning, and action with automation and device workflows.
 - **Platform integration:** HubSpot for CRM workflows, Chargebee for billing and subscriptions, and Auth0 for identity and access.
 - **Delivery & operations:** Docker image builds, containerized services, AWS EC2 deployment, Linux administration, and production troubleshooting.
+
+### Agentic AI & intelligent automation
+
+My work on **Core** includes **Python-based AI engineering and agentic workflows**. I focus on helping agents observe system state, understand context and intent, choose appropriate actions, and use the outcomes to guide the next step.
+
+**Observe → Understand → Plan → Act → Evaluate → Refine**
+
+- **Context-aware decisions:** Connect observations, user intent, and application state so agents can reason about what needs to happen.
+- **Action through integrations:** Connect agent decisions with application services, APIs, and connected-device workflows.
+- **Feedback-driven refinement:** Focus on evaluating outcomes and refining agent behavior toward more relevant, reliable results.
+
+This work brings AI behavior together with the engineering around it: backend services, platform integrations, Docker images, and cloud operations.
 
 ### Professional experience
 
 **CASABOT – AI HOME · Full Stack Engineer**<br>
 Dubai, UAE · February 2026 – Present
 
-- Contribute to Core at the platform level, working on Python services, AI engineering, backend integrations, and connected-device automation workflows.
+- Contribute to Core at the platform level, working on Python services, agentic AI, backend integrations, and connected-device automation workflows.
+- Work on context-aware agent behavior, connecting observation and understanding with action workflows and outcome evaluation.
 - Integrate HubSpot, Chargebee, and Auth0 across CRM, billing, and identity workflows.
 - Build Docker images and containerize services for deployment and operation.
 - Work across React, Next.js, TypeScript, Node.js, and AI/IoT integrations to connect product interfaces with platform services.
@@ -106,7 +119,7 @@ My work spans connected environments, enterprise operations, commerce, and mobil
 
 | Platform | My contribution | Engineering focus |
 | :--- | :--- | :--- |
-| **Connected Living Platform** | Core platform contributions spanning Python services, AI workflows, connected devices, dashboards, Docker image builds, and cloud operations. | Python · React · Next.js · Node.js · Docker · AWS · DocumentDB |
+| **Connected Living Platform** | Core platform contributions spanning Python services, agentic AI, context-aware automation, connected devices, dashboards, Docker image builds, and cloud operations. | Python · React · Next.js · Node.js · Docker · AWS · DocumentDB |
 | **Business Platform Integrations** | Integration work connecting CRM, subscription billing, and identity platforms with application workflows. | HubSpot · Chargebee · Auth0 · APIs |
 | **People Operations Suite** | Employee lifecycle, recruitment, attendance, leave, payroll, and people analytics within a multi-tenant HRMS. | TypeScript · Next.js · Express · Prisma · MySQL |
 | **Customer Relationship Workspace** | Lead scoring and routing, contacts, deal pipelines, sales forecasting, quotes, orders, invoicing, and campaign workflows. | React · Node.js · MySQL · Redis · Socket.io |
@@ -126,6 +139,9 @@ React · Next.js · TypeScript · JavaScript · Tailwind CSS · shadcn/ui · Rea
 
 **Services & integrations**<br>
 Python · Node.js · Express · REST APIs · Socket.io · JWT · OAuth · AI & IoT integrations
+
+**AI & automation**<br>
+Agentic workflows · Context-aware reasoning · API and device actions · Outcome evaluation
 
 **Platform integrations**<br>
 HubSpot · Chargebee · Auth0

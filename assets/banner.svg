@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
-<title id="title">Anish Mahato | Full Stack Engineer | Python, AI systems, cloud and integrations</title>
-<desc id="desc">Left: a conceptual system workflow connects product interfaces to APIs, Python and AI services, HubSpot, Chargebee, Auth0, Docker images, AWS, and data services. Right: Anish Mahato, a Full Stack Engineer in Dubai working on Core, AI workflows and platform integrations.</desc>
+<title id="title">Anish Mahato | Full Stack Engineer | Python, agentic AI, cloud and integrations</title>
+<desc id="desc">Left: a conceptual system workflow connects product interfaces to APIs, Python and AI services, HubSpot, Chargebee, Auth0, Docker images, AWS, and data services. Right: Anish Mahato, a Full Stack Engineer in Dubai working on Core, agentic AI workflows and platform integrations.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101e32"/><stop offset="1" stop-color="#080e19"/></linearGradient>
   <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9bb9d7" stroke-opacity=".045"/></pattern>
@@ -11,8 +11,8 @@
 <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
   <rect x="48" y="44" width="34" height="4" rx="2" fill="#8af1d0"/>
   <text x="96" y="53" font-size="18" letter-spacing="3" font-weight="600" fill="#8af1d0">PRODUCT / SYSTEMS / AI</text>
-  <text x="48" y="113" font-size="39" font-weight="700" fill="#f0f5fc" letter-spacing="-1">From interface to infrastructure.</text>
-  <text x="48" y="149" font-size="21" fill="#94a8c1">The engineering disciplines I connect across the stack.</text>
+  <text x="48" y="113" font-size="39" font-weight="700" fill="#f0f5fc" letter-spacing="-1">Systems that observe, reason &amp; act.</text>
+  <text x="48" y="149" font-size="21" fill="#94a8c1">Observe → Understand → Plan → Act → Evaluate</text>
 
   <!-- Conceptual workflow; connectors are drawn behind the cards. -->
   <g fill="none" stroke="#5ebda9" stroke-opacity=".7" stroke-width="2" marker-end="url(#arrow)">
@@ -30,9 +30,9 @@
   <text x="340" y="282" font-size="19" fill="#a3b6ce">Node.js · TypeScript</text>
   <text x="340" y="307" font-size="17" fill="#708ba8">Access · data · events</text>
   <rect x="620" y="214" width="286" height="112" rx="14" fill="#11302e" stroke="#387d70"/>
-  <text x="640" y="249" font-size="23" font-weight="600" fill="#9bf5d8">Core &amp; AI systems</text>
-  <text x="640" y="282" font-size="19" fill="#c0dbd5">Python · AI engineering</text>
-  <text x="640" y="307" font-size="17" fill="#7da79e">Automation &amp; connected devices</text>
+  <text x="640" y="249" font-size="23" font-weight="600" fill="#9bf5d8">Core &amp; agentic AI</text>
+  <text x="640" y="282" font-size="19" fill="#c0dbd5">Python · agent workflows</text>
+  <text x="640" y="307" font-size="17" fill="#7da79e">Context · reasoning · automation</text>
 
   <text x="52" y="355" font-size="15" fill="#708ba8" letter-spacing="2">02 / PLATFORM INTEGRATIONS</text>
   <g fill="#111f32" stroke="#29405a">
@@ -68,9 +68,9 @@
   <g font-size="23" fill="#cad6e5">
     <text x="1020" y="319">I build across product interfaces,</text>
     <text x="1020" y="351">backend services, and cloud systems.</text>
-    <text x="1020" y="401">My work on Core spans Python,</text>
-    <text x="1020" y="433">AI engineering, and connected</text>
-    <text x="1020" y="465">automation workflows.</text>
+    <text x="1020" y="401">I work on Core with Python,</text>
+    <text x="1020" y="433">building agentic workflows that</text>
+    <text x="1020" y="465">observe, understand, and act.</text>
   </g>
   <text x="1020" y="518" font-size="19" fill="#8af1d0" font-weight="600">SYSTEM DESIGN → INTEGRATION → DELIVERY</text>
   <path d="M1020 545H1520" stroke="#2a3d54"/>
