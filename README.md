@@ -54,6 +54,38 @@ Kathmandu, Nepal · November 2020 – October 2021
 
 - Contributed to mobile and backend projects using Flutter, Laravel, MySQL, and Android Java.
 
+### Featured engineering projects
+
+#### [People & Customer Operations](https://github.com/anishgithub890/hrms-module)
+**Multi-tenant HRMS & CRM platform**
+
+A full-stack business platform with separate company and super-admin applications. It brings employee operations and customer relationships into one system, covering recruitment, payroll, lead scoring, sales pipelines, and forecasting.
+
+- **Architecture:** Express backend, Next.js applications, MySQL with Prisma, and Redis caching.
+- **Platform capabilities:** Company isolation, granular permissions, JWT authentication, two-factor authentication, real-time notifications, and audit logs.
+- **Stack:** Next.js · React · TypeScript · Node.js · Express · MySQL · Prisma · Redis · Socket.io · Docker
+
+#### [Property Operations Suite](https://github.com/anishgithub890/realestate)
+**Property, tenancy & contract management**
+
+A multi-tenant application covering the lifecycle of properties, tenants, landlords, rental and sales contracts, payments, and maintenance requests. Separate frontend and backend layers support business workflows and role-based access.
+
+- **Architecture:** Next.js interface, Node.js/Express APIs, a Prisma data layer, MySQL, and Redis.
+- **Platform capabilities:** Company management, approval workflows, broker and viewing records, property inspections, authentication, and operational reporting.
+- **Stack:** Next.js · TypeScript · Node.js · Express · MySQL · Prisma · Redis · Docker
+
+#### [POS](https://github.com/anishgithub890/billing-pos-nextjs)
+**Retail billing, returns & sales operations**
+
+A Next.js retail interface covering sales invoices, returns, credit bills, receipts, customer accounts, and reporting. It connects billing workflows with backend APIs and provides printable invoices and receipts.
+
+- **Workflow depth:** Multiple payment methods, configurable tax handling, multi-currency support, customer credit tracking, and inventory integration.
+- **Interface engineering:** Protected routes, permission-aware actions, validated forms, reusable components, and sales analytics.
+- **Stack:** Next.js · React · TypeScript · Tailwind CSS · React Hook Form · Zod · Recharts
+
+<details>
+<summary><strong>More professional experience & project domains</strong></summary>
+
 ### Real-world engineering work
 
 My work spans connected environments, enterprise operations, commerce, and mobile applications. These are the systems and workflows I've contributed to across my professional experience.
@@ -66,9 +98,11 @@ My work spans connected environments, enterprise operations, commerce, and mobil
 | **Property Discovery Network** | Broker and listing workflows, buyer requirements, AI-assisted property matching, activity feeds, and third-party listing integrations. | Next.js · TypeScript · Node.js · Prisma · REST APIs |
 | **Property Operations Suite** | Tenant and landlord workflows, rental and sales contracts, digital signatures, PDF documents, payments, maintenance tickets, and approval flows. | Next.js · React Query · React Hook Form · Zod · PDF tooling |
 | **Finance & Inventory Hub** | Backend APIs for financial operations, inventory control, business process automation, third-party integrations, caching, and reporting. | Node.js · Express · MySQL · MongoDB · Redis |
-| **Retail Billing Workspace** | Sales and returns interfaces, receipts, payment options, tax handling, customer workflows, and sales reporting. | Next.js · TypeScript · Tailwind CSS · Recharts |
+| [**POS**](https://github.com/anishgithub890/billing-pos-nextjs) | Sales and returns interfaces, receipts, payment options, tax handling, customer workflows, and sales reporting. | Next.js · TypeScript · Tailwind CSS · Recharts |
 | **Commerce Web Platform** | Frontend and backend contributions to a .NET-based e-commerce application, with API integration and testing across modules. | .NET · API integration · API testing |
 | **Mobile & Backend Applications** | Contributions to Flutter mobile applications, Laravel backend services, and Android features during my internship. | Flutter · Laravel · PHP · MySQL · Java · Oracle |
+
+</details>
 
 ### Technology toolkit
 
