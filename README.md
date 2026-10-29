@@ -21,6 +21,7 @@ Dubai, UAE · February 2026 – Present
 
 - **Core platform & device integrations:** Contribute to the services and workflows supporting 1,000+ smart-device integrations, connecting device capabilities with application and automation workflows.
 - **Python & agentic AI:** Work on agents that observe system state, understand context and intent, and act through services and device integrations, with a focus on evaluating outcomes and refining behavior.
+- **Apiary · Hospitality & conversational AI:** Work on hospitality property management system (PMS) integrations, including Opera, and implement room-level conversational AI agents that connect guest interactions with hospitality workflows.
 - **Business platform integrations:** Connect HubSpot, Chargebee, and Auth0 with CRM, subscription billing, and identity workflows.
 - **Product delivery & operations:** Build React/Next.js interfaces and backend integrations, create Docker images, and deploy and troubleshoot services on AWS EC2 with Linux and Amazon DocumentDB.
 
@@ -82,7 +83,7 @@ Mobile and backend contributions using Flutter, Laravel, MySQL, Android Java, an
 **Services & AI:** Python · Node.js · Express · REST APIs · Socket.io · Agentic workflows<br>
 **Data:** MySQL · MongoDB · DocumentDB · Prisma · Redis<br>
 **Infrastructure:** Docker · AWS EC2 · Linux · Git<br>
-**Integrations:** Smart devices · HubSpot · Chargebee · Auth0
+**Integrations:** Smart devices · Hospitality PMS / Opera · HubSpot · Chargebee · Auth0
 
 ---
 
