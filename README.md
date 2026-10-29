@@ -12,14 +12,14 @@
 
 Based in **Dubai, UAE**, I build connected systems and enterprise applications—from product interfaces and backend services to data architecture and cloud deployment.
 
-At **CASABOT – AI HOME**, I work on **Core**, contributing Python services, agentic AI workflows, and platform engineering within an ecosystem of **1,000+ smart-device integrations**. My earlier work spans multi-tenant SaaS, HRMS/CRM, property platforms, and financial operations.
+At **CASABOT – AI HOME**, I contribute to **Core, our proprietary operating system for AI-powered homes and hospitality**, working on Python services, agentic AI workflows, and platform engineering within an ecosystem of **1,000+ smart-device integrations**. My earlier work spans multi-tenant SaaS, HRMS/CRM, property platforms, and financial operations.
 
 ### Current work
 
 **CASABOT – AI HOME · Full Stack Engineer**<br>
 Dubai, UAE · February 2026 – Present
 
-- **Core platform & device integrations:** Contribute to the services and workflows supporting 1,000+ smart-device integrations, connecting device capabilities with application and automation workflows.
+- **Core OS & device integrations:** Contribute at the operating-system platform level, connecting smart-device capabilities, AI services, and automation workflows for homes and hospitality within an ecosystem of 1,000+ integrations.
 - **Python & agentic AI:** Work on agents that observe system state, understand context and intent, and act through services and device integrations, with a focus on evaluating outcomes and refining behavior.
 - **Apiary · Hospitality & conversational AI:** Work on hospitality property management system (PMS) integrations, including Opera, and implement room-level conversational AI agents that connect guest interactions with hospitality workflows.
 - **Business platform integrations:** Connect HubSpot, Chargebee, and Auth0 with CRM, subscription billing, and identity workflows.
